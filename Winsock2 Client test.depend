@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384135025 source:c:\users\jason\documents\winsock2 client test\main.cpp
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+
